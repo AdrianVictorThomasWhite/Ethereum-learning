@@ -1,4 +1,5 @@
 // Phase 6 - ERC20 token - transfer tested on Sepolia
+// Phase 6 - ERC20 token - mint and burn between accounts 1 & 2 on MetaMask (Sepolia)
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
