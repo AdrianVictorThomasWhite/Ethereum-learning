@@ -1,5 +1,9 @@
 // CryptoCards NFT Contract
 // Deployed to Sepolia: 0x470452bEADa4FC54afEf490001EC963F289Ff1cd
+// addresses which own tokens 0, 1, 2:
+// Account 1 (MetaMask): 0xeceBa82413442D93f0e21cB1FB5FDdeBfc190b27
+// Account 2 (MetaMask): 0x38791B63FFC4195018D02b5F2d0545Df9E2d34ef
+//URI used: https://mymetadata.com/card/...
 // Max Supply: 100 cards
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
