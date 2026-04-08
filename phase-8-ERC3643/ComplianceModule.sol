@@ -1,10 +1,9 @@
 // ERC3643 Component 3 — Compliance Module
-// Deployed to Sepolia: 0x... (paste your address)
+// Deployed to Sepolia: 0x15b2e9d3bb29458fbfe943ef2153ecd16f0554c4
 // Identity Registry: 0xA31217AaBfA3d17D1120C8f6E6dC61D88f58952b
 // Max Investors: 50
 // Max Holding: 20% (2000 basis points)
 // Date: 2026
-
 
 
 // SPDX-License-Identifier: MIT
